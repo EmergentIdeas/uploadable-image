@@ -1,0 +1,27 @@
+{
+  "name": "uploadable-image",
+  "version": "1.0.0",
+  "description": "Uploads and image and sets the value using an input element",
+  "main": "uploadable-image",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmergentIdeas/uploadable-image.git"
+  },
+  "keywords": [
+    "file",
+    "upload",
+    "input"
+  ],
+  "author": "Dan Kolz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmergentIdeas/uploadable-image/issues"
+  },
+  "homepage": "https://github.com/EmergentIdeas/uploadable-image#readme",
+  "dependencies": {
+    "ei-pic-browser": "^1.0.4"
+  }
+}
